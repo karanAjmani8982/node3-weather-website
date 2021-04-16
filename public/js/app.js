@@ -3,7 +3,6 @@ const search = document.querySelector('input') //element name
 const messageOne = document.querySelector('#message-1') //id name
 const messageTwo = document.querySelector('#message-2') //id name
 
-
 weatherForm.addEventListener('submit',(e) => {
     e.preventDefault()
 
